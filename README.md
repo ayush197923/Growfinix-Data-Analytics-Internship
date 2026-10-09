@@ -1,43 +1,29 @@
-# Task 1: Real Estate Market Data Cleaning (Excel / Power Query)
-**Growfinix Data Analytics Internship — Month 1**
+# Growfinix Data Analytics Internship - Month 1 Tasks
 
-## Objective
-Clean a messy, unstructured dataset of property listings for Manresa Real Estate and merge it with historical sales records using lookup functions.
+This repository contains my completed tasks for the **Growfinix Technology Data Analytics Internship (Month 1: Data Cleaning, SQL & Exploratory Data Analysis)**.
 
-## Tools Used
-- Microsoft Excel
-- Power Query
-- INDEX/MATCH (lookup formulas)
+Each task has its own folder with the source code, datasets, charts and a detailed README.
 
-## Problems Found in Raw Data (`Property_Listings_RAW` sheet)
-- **Duplicate rows** — 3 exact duplicate listings
-- **Missing Zip Codes** — ~30% of rows had blank zip codes
-- **Inconsistent text formatting** — City, State, Property Type, and Agent Name columns had mixed case and extra spaces (e.g. "manresa", "MANRESA", "Manresa ")
-- **Inconsistent price formatting** — some prices stored as text with `$` and `,` (e.g. `"$599,000"`) mixed with plain numbers
-- **Missing values** — some Bedrooms cells were blank
+## Tasks
 
-## Steps Taken
-1. Loaded `Property_Listings_RAW` into Power Query (Data → From Table/Range)
-2. Removed exact duplicate rows (Home → Remove Rows → Remove Duplicates)
-3. Trimmed extra spaces and applied consistent capitalization to City, State, Property Type, and Agent Name using Trim + Capitalize
-4. Replaced blank Zip Codes with `"Unknown"` as a placeholder
-5. Cleaned the List Price column by stripping `$` and `,` and converting to numeric type
-6. Merged with `Historical_Sales` sheet using **Listing ID** as the key (Left Outer Join) to bring in `Last Sale Price` and `Days on Market`
-7. Verified the merge independently using **INDEX/MATCH** formulas as a cross-check
+| # | Task | Tools | Folder |
+|---|------|-------|--------|
+| 1 | Real Estate Market Data Cleaning | Excel, Power Query, INDEX/MATCH | [Task1-Excel](./Task1-Excel) |
+| 2 | Sports Analytics & Performance Metrics (IPL / KKR) | SQL (JOIN, GROUP BY, Window Functions) | [Task2-SQL](./Task2-SQL) |
+| 3 | Customer Demographic Analysis (Tour Enquiries) | Python, Pandas, Matplotlib | [Task3-Python-EDA](./Task3-Python-EDA) |
+| 4 | Media Production Cost Tracking and ROI | SQL, Google Sheets | [Task4-Media-Cost-ROI](./Task4-Media-Cost-ROI) |
+| 5 | Healthcare Patient Admission Trends | Python, Pandas, Seaborn | [Task5-Healthcare-EDA](./Task5-Healthcare-EDA) |
 
-## Output
-`Cleaned_Listings` sheet contains the final cleaned and merged dataset — one row per unique listing, standardized text, numeric prices, and merged sale history (listings with no sale history are flagged `"No Sale History"`).
+## Short Summary of Each Task
 
-## Files in this Repo
-| File | Description |
-|---|---|
-| `Manresa_RealEstate_Messy_Data.xlsx` | Original raw/messy dataset |
-| `Manresa_RealEstate_CLEANED_Solution.xlsx` | Final cleaned & merged dataset |
-| `screenshots/` | Before/after screenshots of Power Query steps |
-| `README.md` | This file |
+1. **Real Estate Data Cleaning:** removed duplicates, standardized text, handled missing zip codes and merged listings with historical sales records.
+2. **IPL Sports Analytics:** calculated Kolkata Knight Riders' win rate and average run rate across stadiums using SQL window functions.
+3. **Customer Demographic Analysis:** explored tour enquiries to find popular destinations and grouped customers by age and income bracket.
+4. **Media Production Cost Tracking:** categorized expenses for DSLR portraits vs cinematic animation videos and compared ROI across media formats.
+5. **Healthcare Admission Trends:** found seasonal admission patterns, average length of stay per department, and handled outliers with the IQR rule.
 
-## Key Learning
-Power Query is far more efficient than manual find-and-replace for repeatable data cleaning — the same query can be refreshed on new raw data without redoing every step manually.
+## Note
+All datasets used in these tasks are synthetic (generated for practice) and do not contain any real personal data.
 
 ---
-*Submitted as part of the Growfinix Technology Data Analytics Internship — Month 1, Task 1.*
+*Growfinix Technology | www.growfinix.in*
