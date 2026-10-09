@@ -1,0 +1,9 @@
+Department,Patients,Avg_LOS_Days,Median_LOS_Days
+Oncology,94,8.77,9.0
+Neurology,98,6.99,7.0
+Orthopedics,216,6.13,6.0
+Cardiology,192,5.73,6.0
+Respiratory,107,5.2,5.0
+General Medicine,201,3.93,4.0
+Pediatrics,214,3.53,4.0
+Emergency,339,2.57,3.0

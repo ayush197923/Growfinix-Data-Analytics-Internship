@@ -1,0 +1,40 @@
+Patient_ID,Admission_Date,Department,Age,Gender,Admission_Type,Length_of_Stay_Days,Treatment_Cost_INR,Month,Month_Name,Season,Is_Outlier
+5277,2025-01-02,Pediatrics,34,Male,Referral,76,383981.0,1,Jan,Winter,True
+6366,2025-01-09,Pediatrics,54,Female,Planned,82,477213.0,1,Jan,Winter,True
+5285,2025-01-21,Oncology,18,Female,Referral,14,43098.0,1,Jan,Winter,True
+6482,2025-01-26,Oncology,53,Male,Referral,14,64945.0,1,Jan,Winter,True
+5983,2025-01-26,Oncology,60,Male,Planned,16,71895.0,1,Jan,Winter,True
+5298,2025-01-28,Respiratory,30,Female,Planned,79,424609.0,1,Jan,Winter,True
+6062,2025-02-19,General Medicine,56,Male,Planned,61,200872.0,2,Feb,Winter,True
+6121,2025-02-20,Emergency,29,Male,Emergency,62,212942.0,2,Feb,Winter,True
+5013,2025-03-14,Orthopedics,66,Female,Planned,44,145970.0,3,Mar,Summer,True
+6142,2025-03-14,Oncology,16,Male,Emergency,14,78785.0,3,Mar,Summer,True
+5143,2025-03-25,Oncology,33,Male,Referral,14,45290.0,3,Mar,Summer,True
+5464,2025-04-04,Neurology,40,Female,Planned,60,194136.0,4,Apr,Summer,True
+6444,2025-04-19,Oncology,54,Male,Emergency,41,104278.0,4,Apr,Summer,True
+6061,2025-05-04,Pediatrics,27,Male,Emergency,70,363964.0,5,May,Summer,True
+5822,2025-05-12,Orthopedics,57,Male,Planned,66,254871.0,5,May,Summer,True
+5994,2025-05-14,Oncology,28,Female,Planned,15,72571.0,5,May,Summer,True
+5323,2025-06-23,Orthopedics,35,Female,Planned,62,208285.0,6,Jun,Monsoon,True
+5805,2025-07-16,Orthopedics,65,Female,Emergency,53,151788.0,7,Jul,Monsoon,True
+5842,2025-07-24,General Medicine,50,Female,Planned,57,234895.0,7,Jul,Monsoon,True
+6486,2025-07-27,Pediatrics,31,Male,Referral,46,260158.0,7,Jul,Monsoon,True
+5090,2025-07-28,Orthopedics,72,Female,Emergency,69,249061.0,7,Jul,Monsoon,True
+5068,2025-08-02,Orthopedics,47,Female,Planned,88,501127.0,8,Aug,Monsoon,True
+5933,2025-08-05,Neurology,39,Female,Planned,51,243538.0,8,Aug,Monsoon,True
+6096,2025-08-10,General Medicine,32,Female,Emergency,60,231245.0,8,Aug,Monsoon,True
+5218,2025-08-20,Oncology,16,Male,Planned,14,53464.0,8,Aug,Monsoon,True
+5782,2025-08-25,Oncology,59,Female,Planned,14,55540.0,8,Aug,Monsoon,True
+5846,2025-08-26,Oncology,76,Female,Emergency,19,94668.0,8,Aug,Monsoon,True
+5382,2025-09-09,General Medicine,50,Female,Referral,79,337819.0,9,Sep,Monsoon,True
+6402,2025-10-11,Oncology,65,Female,Emergency,17,79104.0,10,Oct,Post-Monsoon,True
+5617,2025-10-15,Cardiology,42,Male,Emergency,50,204085.0,10,Oct,Post-Monsoon,True
+5085,2025-10-26,Orthopedics,50,Male,Emergency,77,406799.0,10,Oct,Post-Monsoon,True
+5078,2025-11-01,Oncology,31,Female,Emergency,15,58916.0,11,Nov,Post-Monsoon,True
+5753,2025-11-13,Neurology,1,Female,Emergency,15,54677.0,11,Nov,Post-Monsoon,True
+6133,2025-11-15,Oncology,41,Female,Planned,14,61134.0,11,Nov,Post-Monsoon,True
+6256,2025-11-17,Pediatrics,35,Female,Emergency,66,328977.0,11,Nov,Post-Monsoon,True
+5809,2025-12-08,Cardiology,34,Male,Emergency,56,285391.0,12,Dec,Winter,True
+5697,2025-12-14,Oncology,29,Male,Emergency,15,75731.0,12,Dec,Winter,True
+5882,2025-12-19,Pediatrics,40,Male,Emergency,70,342046.0,12,Dec,Winter,True
+6036,2025-12-27,General Medicine,91,Female,Planned,74,274231.0,12,Dec,Winter,True
