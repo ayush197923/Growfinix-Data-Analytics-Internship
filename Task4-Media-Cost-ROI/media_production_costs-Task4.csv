@@ -1,0 +1,121 @@
+asset_id,asset_name,media_type,category,production_date,equipment_cost,labor_cost,software_cost,post_production_cost,revenue_generated,hours_spent
+1,Cinematic_Asset_046,Cinematic Animation Video,Video,2025-02-22,1145,14771,2141,8242,64013,510.0
+2,Cinematic_Asset_026,Cinematic Animation Video,Video,2025-08-11,1496,8155,988,5966,19311,213.8
+3,Short_Asset_090,Short Reel,Video,2025-11-25,302,2306,427,656,10107,52.3
+4,DSLR_Asset_017,DSLR Portrait,Photography,2025-11-08,1590,1800,138,592,7316,71.1
+5,Product_Asset_052,Product Photo,Photography,2025-06-09,648,1599,102,617,7772,37.0
+6,Product_Asset_061,Product Photo,Photography,2025-03-03,957,1952,111,802,6792,44.8
+7,DSLR_Asset_005,DSLR Portrait,Photography,2025-04-17,2393,3400,267,951,17273,114.6
+8,Cinematic_Asset_039,Cinematic Animation Video,Video,2025-06-07,1436,9281,1238,6149,23847,334.8
+9,Short_Asset_079,Short Reel,Video,2025-02-17,579,1830,671,899,11514,44.8
+10,Product_Asset_066,Product Photo,Photography,2025-12-07,996,1051,298,822,8819,26.9
+11,Infographic_Asset_112,Infographic,Graphic,2025-10-03,1,577,258,209,2995,14.8
+12,Infographic_Asset_115,Infographic,Graphic,2025-05-15,87,1435,242,324,4793,45.8
+13,Cinematic_Asset_048,Cinematic Animation Video,Video,2025-09-17,683,9710,1357,5832,33853,260.4
+14,Cinematic_Asset_037,Cinematic Animation Video,Video,2025-08-16,1030,8778,2343,5805,38677,204.9
+15,Infographic_Asset_106,Infographic,Graphic,2025-06-16,86,664,381,220,3305,19.2
+16,Short_Asset_093,Short Reel,Video,2025-09-10,574,2086,346,1489,13639,54.5
+17,Infographic_Asset_114,Infographic,Graphic,2025-10-20,41,875,160,265,3438,20.2
+18,Product_Asset_062,Product Photo,Photography,2025-08-16,869,1647,284,713,7418,59.8
+19,DSLR_Asset_024,DSLR Portrait,Photography,2025-12-01,951,2647,208,1439,15981,100.3
+20,Product_Asset_071,Product Photo,Photography,2025-07-18,490,1331,179,399,5820,32.6
+21,Infographic_Asset_118,Infographic,Graphic,2025-08-28,19,1356,388,190,3447,44.3
+22,Short_Asset_083,Short Reel,Video,2025-03-03,642,2567,292,1330,8595,62.7
+23,Infographic_Asset_097,Infographic,Graphic,2025-12-15,31,546,367,150,3179,19.6
+24,Infographic_Asset_108,Infographic,Graphic,2025-05-13,79,1358,209,327,4215,33.0
+25,Product_Asset_050,Product Photo,Photography,2025-10-21,864,1203,240,306,6052,28.2
+26,Short_Asset_089,Short Reel,Video,2025-07-17,482,2854,374,1626,14479,78.5
+27,Cinematic_Asset_035,Cinematic Animation Video,Video,2025-02-16,589,13879,845,4885,54919,341.9
+28,Cinematic_Asset_040,Cinematic Animation Video,Video,2025-05-27,1008,11746,883,8826,22954,413.8
+29,DSLR_Asset_009,DSLR Portrait,Photography,2025-01-16,2202,1502,209,714,14199,46.2
+30,Short_Asset_088,Short Reel,Video,2025-01-04,611,2033,225,900,11361,67.4
+31,Short_Asset_085,Short Reel,Video,2025-11-13,479,2934,692,1112,11195,80.6
+32,Infographic_Asset_102,Infographic,Graphic,2025-05-09,39,1303,359,419,5872,35.0
+33,Short_Asset_073,Short Reel,Video,2025-06-17,569,1236,560,1535,11611,27.5
+34,Cinematic_Asset_033,Cinematic Animation Video,Video,2025-12-23,763,12819,2291,5704,35344,350.1
+35,Short_Asset_094,Short Reel,Video,2025-11-06,503,1055,207,1001,7856,31.8
+36,DSLR_Asset_016,DSLR Portrait,Photography,2025-10-11,886,2099,209,952,7732,50.4
+37,Infographic_Asset_116,Infographic,Graphic,2025-06-01,51,1490,364,227,3468,46.2
+38,DSLR_Asset_023,DSLR Portrait,Photography,2025-11-28,2275,1781,164,733,11207,47.7
+39,Infographic_Asset_099,Infographic,Graphic,2025-08-05,6,865,370,179,2395,22.6
+40,Infographic_Asset_109,Infographic,Graphic,2025-12-27,47,657,266,248,2829,15.1
+41,DSLR_Asset_007,DSLR Portrait,Photography,2025-09-10,1928,1840,230,822,13324,71.9
+42,Short_Asset_076,Short Reel,Video,2025-03-22,361,1579,674,695,9343,46.1
+43,DSLR_Asset_003,DSLR Portrait,Photography,2025-12-20,2220,1671,302,1487,12583,44.0
+44,Product_Asset_056,Product Photo,Photography,2025-02-25,1094,1701,206,892,13249,57.8
+45,Cinematic_Asset_038,Cinematic Animation Video,Video,2025-07-26,834,12631,2163,5052,26412,307.2
+46,Short_Asset_074,Short Reel,Video,2025-01-25,393,2644,236,1487,7127,73.4
+47,Cinematic_Asset_030,Cinematic Animation Video,Video,2025-11-16,1421,17529,1065,5798,40487,407.5
+48,Product_Asset_058,Product Photo,Photography,2025-10-07,973,1325,159,690,10744,42.6
+49,Short_Asset_086,Short Reel,Video,2025-11-07,745,1157,399,1554,15419,29.6
+50,Infographic_Asset_103,Infographic,Graphic,2025-04-07,92,1078,197,424,3435,24.5
+51,Product_Asset_065,Product Photo,Photography,2025-08-04,690,1459,265,663,6352,41.7
+52,Infographic_Asset_107,Infographic,Graphic,2025-02-26,26,846,275,353,3926,30.9
+53,DSLR_Asset_008,DSLR Portrait,Photography,2025-07-03,1953,1942,305,610,14064,44.0
+54,Short_Asset_075,Short Reel,Video,2025-03-04,727,2853,491,1485,8947,98.1
+55,DSLR_Asset_020,DSLR Portrait,Photography,2025-08-20,1124,3768,200,1203,19579,141.8
+56,Cinematic_Asset_031,Cinematic Animation Video,Video,2025-10-01,1392,12834,2419,3247,50538,342.2
+57,Short_Asset_077,Short Reel,Video,2025-06-14,299,1669,400,1456,9155,57.2
+58,Product_Asset_057,Product Photo,Photography,2025-09-17,939,1944,154,875,11008,46.4
+59,Short_Asset_091,Short Reel,Video,2025-03-28,595,2904,680,827,11416,83.2
+60,Short_Asset_078,Short Reel,Video,2025-03-14,582,1027,524,583,9680,30.1
+61,Cinematic_Asset_034,Cinematic Animation Video,Video,2025-09-01,951,13579,1908,3686,37944,435.2
+62,Cinematic_Asset_028,Cinematic Animation Video,Video,2025-02-16,1217,11108,868,3174,33338,421.6
+63,Cinematic_Asset_025,Cinematic Animation Video,Video,2025-05-12,921,13302,1310,3495,18810,373.4
+64,Cinematic_Asset_027,Cinematic Animation Video,Video,2025-01-16,1207,14551,1996,4149,44261,336.8
+65,Cinematic_Asset_042,Cinematic Animation Video,Video,2025-02-27,1188,11167,2266,8118,40014,435.7
+66,DSLR_Asset_022,DSLR Portrait,Photography,2025-08-10,1602,2552,315,1343,17603,72.1
+67,Short_Asset_081,Short Reel,Video,2025-02-24,798,1698,612,1028,8200,42.6
+68,DSLR_Asset_021,DSLR Portrait,Photography,2025-05-08,897,1925,155,539,8165,48.4
+69,Infographic_Asset_104,Infographic,Graphic,2025-01-01,64,1168,200,449,2933,38.4
+70,Infographic_Asset_110,Infographic,Graphic,2025-06-03,54,1169,289,397,3141,32.6
+71,Product_Asset_072,Product Photo,Photography,2025-10-22,529,1210,183,318,3993,37.6
+72,Product_Asset_054,Product Photo,Photography,2025-02-14,681,1798,87,523,9691,43.9
+73,DSLR_Asset_015,DSLR Portrait,Photography,2025-10-21,840,2363,195,903,13731,64.7
+74,DSLR_Asset_002,DSLR Portrait,Photography,2025-03-03,1848,3448,195,596,13415,96.4
+75,Cinematic_Asset_047,Cinematic Animation Video,Video,2025-08-18,1343,13784,1324,4463,47203,350.9
+76,Product_Asset_068,Product Photo,Photography,2025-09-20,1046,1893,243,523,9656,51.5
+77,Infographic_Asset_113,Infographic,Graphic,2025-04-12,63,1242,267,244,5126,32.6
+78,Product_Asset_070,Product Photo,Photography,2025-03-08,599,1246,279,499,8620,45.1
+79,Product_Asset_060,Product Photo,Photography,2025-01-17,915,810,234,686,4371,18.7
+80,DSLR_Asset_012,DSLR Portrait,Photography,2025-08-06,1075,2509,151,511,6402,64.9
+81,Product_Asset_049,Product Photo,Photography,2025-12-13,1174,1126,180,529,5313,40.8
+82,DSLR_Asset_001,DSLR Portrait,Photography,2025-10-07,1726,3792,338,962,15778,132.2
+83,Infographic_Asset_117,Infographic,Graphic,2025-06-26,50,1098,298,199,4291,33.5
+84,Product_Asset_053,Product Photo,Photography,2025-06-18,416,1513,209,384,4213,45.3
+85,DSLR_Asset_006,DSLR Portrait,Photography,2025-11-09,1402,3547,102,1178,9674,107.0
+86,Short_Asset_080,Short Reel,Video,2025-10-20,531,2829,243,1788,20652,98.2
+87,DSLR_Asset_010,DSLR Portrait,Photography,2025-04-25,2251,3127,314,574,15159,81.2
+88,Product_Asset_069,Product Photo,Photography,2025-06-20,539,1276,269,655,9080,40.8
+89,Infographic_Asset_101,Infographic,Graphic,2025-04-16,67,1334,170,248,4732,48.9
+90,Product_Asset_064,Product Photo,Photography,2025-03-08,666,1065,259,323,3857,42.2
+91,DSLR_Asset_018,DSLR Portrait,Photography,2025-08-27,1555,3022,332,630,17317,82.8
+92,Short_Asset_087,Short Reel,Video,2025-12-08,604,2177,211,735,10894,72.2
+93,Infographic_Asset_120,Infographic,Graphic,2025-05-26,83,1361,316,132,4490,37.9
+94,Infographic_Asset_100,Infographic,Graphic,2025-07-12,58,1115,234,427,4353,27.5
+95,Cinematic_Asset_045,Cinematic Animation Video,Video,2025-11-04,1349,10364,1286,4154,41408,305.5
+96,Product_Asset_051,Product Photo,Photography,2025-11-23,751,1749,163,509,5672,63.7
+97,Product_Asset_059,Product Photo,Photography,2025-04-14,544,1915,214,579,8744,53.6
+98,Cinematic_Asset_044,Cinematic Animation Video,Video,2025-08-07,1310,15241,839,8250,29696,597.8
+99,Product_Asset_067,Product Photo,Photography,2025-10-06,847,847,176,723,8214,23.7
+100,Infographic_Asset_098,Infographic,Graphic,2025-08-04,31,1118,158,125,3489,38.5
+101,Product_Asset_063,Product Photo,Photography,2025-07-20,844,1775,214,624,6245,69.4
+102,Cinematic_Asset_029,Cinematic Animation Video,Video,2025-09-12,818,11224,1079,3593,17433,282.4
+103,Short_Asset_092,Short Reel,Video,2025-09-13,259,1879,683,1512,10304,50.8
+104,Cinematic_Asset_032,Cinematic Animation Video,Video,2025-02-03,891,12212,1993,3101,37428,323.2
+105,Product_Asset_055,Product Photo,Photography,2025-09-24,577,1891,165,443,7672,53.5
+106,Infographic_Asset_111,Infographic,Graphic,2025-08-10,55,1077,390,348,5092,26.0
+107,Infographic_Asset_105,Infographic,Graphic,2025-05-03,54,527,119,152,1562,13.1
+108,Short_Asset_096,Short Reel,Video,2025-08-09,526,1150,608,958,7789,25.9
+109,DSLR_Asset_013,DSLR Portrait,Photography,2025-03-14,1185,3332,360,695,17683,88.0
+110,DSLR_Asset_019,DSLR Portrait,Photography,2025-10-08,1590,2248,178,818,14672,56.9
+111,Short_Asset_084,Short Reel,Video,2025-11-20,508,1960,251,521,11944,75.4
+112,Short_Asset_082,Short Reel,Video,2025-06-18,363,2668,678,1330,7926,68.6
+113,DSLR_Asset_004,DSLR Portrait,Photography,2025-04-08,2076,1561,370,564,6889,42.2
+114,Infographic_Asset_119,Infographic,Graphic,2025-10-10,2,726,364,129,2828,16.4
+115,Cinematic_Asset_041,Cinematic Animation Video,Video,2025-07-21,961,13722,1363,4753,51555,387.6
+116,DSLR_Asset_014,DSLR Portrait,Photography,2025-10-10,1038,3117,315,717,7266,69.3
+117,Short_Asset_095,Short Reel,Video,2025-01-19,599,1108,659,1145,11570,24.7
+118,Cinematic_Asset_036,Cinematic Animation Video,Video,2025-03-22,1175,13967,1323,3092,31274,375.1
+119,DSLR_Asset_011,DSLR Portrait,Photography,2025-07-25,1489,1856,259,840,6343,42.7
+120,Cinematic_Asset_043,Cinematic Animation Video,Video,2025-10-12,1393,15954,884,8556,60174,511.7
